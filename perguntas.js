@@ -3,7 +3,7 @@ export const perguntas = [
         enunciado: "1. Quais ferramentas você usaria?",
         alternativas: [
             {
-                texto: "A) Uma KatanaUma Katana",
+                texto: "A) Uma Katana",
                 afirmacao: [
                     " O Tanjiro Kamado. Você é alguém gentil e determinado. Você tem uma personalidade forte com o objetivo de exterminar qualquer ameaça aos humanos como onis, faria tudo para salvar seus amigos"
                 ],
